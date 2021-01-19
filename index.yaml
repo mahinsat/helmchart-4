@@ -3,12 +3,12 @@ entries:
   springboot:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-19T04:45:36.644840848Z"
+    created: "2021-01-19T05:44:18.573355815Z"
     description: A Helm chart for Kubernetes
-    digest: bf28a77123a62078df77011643ca99784a4dcf1984fde27ff98c66afc567ab6b
+    digest: f6205b6f4c67716bd6a2a382efc5d1b4fe4f0e6293eb2d9340bb6f81ff407f5a
     name: springboot
     type: application
     urls:
     - https://mahinsat.github.io/helm-chart/springboot-0.1.0.tgz
     version: 0.1.0
-generated: "2021-01-19T04:45:36.643695977Z"
+generated: "2021-01-19T05:44:18.572721578Z"
